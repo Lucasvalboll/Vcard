@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+}
+
+.avatar {
+    width: 150px;
+    padding-right: 10px;
+    box-shadow: 10px 10px 5px #ccc;
+
+  
+}
+
+
+.lucas {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: black;
+    border-bottom: solid 6px #d8cefe;
+    box-shadow: 10px 10px 5px #ccc;
+    
+
+}
+
+
